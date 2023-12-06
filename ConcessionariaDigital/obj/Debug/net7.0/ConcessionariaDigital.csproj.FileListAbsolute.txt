@@ -1,0 +1,15 @@
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\bin\Debug\net7.0\ConcessionariaDigital.exe
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\bin\Debug\net7.0\ConcessionariaDigital.deps.json
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\bin\Debug\net7.0\ConcessionariaDigital.runtimeconfig.json
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\bin\Debug\net7.0\ConcessionariaDigital.dll
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\bin\Debug\net7.0\ConcessionariaDigital.pdb
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.csproj.AssemblyReference.cache
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.AssemblyInfoInputs.cache
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.AssemblyInfo.cs
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.csproj.CoreCompileInputs.cache
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.dll
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\refint\ConcessionariaDigital.dll
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.pdb
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ConcessionariaDigital.genruntimeconfig.cache
+C:\Users\lucas.dferreira\Desktop\CSHARP\ConcessionariaDigital\ConcessionariaDigital\obj\Debug\net7.0\ref\ConcessionariaDigital.dll
